@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/aminacoree/Robotics-Vision-Api.git
+[submodule "model"]
+	path = model
+	url = https://github.com/aminacoree/Firefighting-Model
+[submodule "uvg_rpi"]
+	path = uvg_rpi
+	url = https://github.com/aminacoree/uvg_rpi_code.git
